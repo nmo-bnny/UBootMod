@@ -7,11 +7,11 @@ or replicate the actions for malicious purposes.
 
 # Dependencies
 
-qemu-system-mips (1:8.2.2+ds-0ubuntu1.11)
-bison (2:3.8.2+dfsg-1build2).
-flex (2.6.4-8.2build1).
-libncurses-dev (6.4+20240113-1ubuntu2)
-gcc-mips-linux-gnu (4:12.2.0-4)
+qemu-system-mips (1:8.2.2+ds-0ubuntu1.11)<br>
+bison (2:3.8.2+dfsg-1build2).<br>
+flex (2.6.4-8.2build1).<br>
+libncurses-dev (6.4+20240113-1ubuntu2)<br>
+gcc-mips-linux-gnu (4:12.2.0-4)<br>
 
 
 # Getting started
