@@ -44,3 +44,4 @@ CONFIG_BOARD_LATE_INIT=y
 # Warning
 
 This project has only been tested on debian based systems
+If you are running this script on a subsystem make sure virtualization is on
